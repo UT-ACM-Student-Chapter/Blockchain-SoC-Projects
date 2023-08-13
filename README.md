@@ -42,6 +42,7 @@ However, he wants to show haddack that the sender of thsese tricky messages is T
 
 
 ## Submission Guidelines:
+- Donwload the [notebook](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/CryptoGraphy-CA.ipynb) file from this link, and complete your code on this notebook. You have to install [jupyter notebook](https://jupyter.org/install) and [python](https://www.python.org/downloads/) on your system.     
 - Provide well-commented Python code for each part of the assignment.
 - Include explanations for the design choices you made in terms of algorithms and libraries.
 - Write a report summarizing the concepts of symmetric and asymmetric cryptography, hash functions, and their practical applications.
