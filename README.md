@@ -8,7 +8,7 @@ The objective of this assignment is to gain practical experience in implementing
 We have **TinTin** and **Haddock** on two seperate islands and they want to send messages to each other using morse codes!!   
 However, there is a problem over there. **Roberto Rastapopoulos** (Their enemy!) is listening to their conversation to figure out what they are saying to each other!
 
-![logo-tintin-1 (2)](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/assets/88896798/882c6fcd-0ed2-4f9d-9f76-1bf0da78ca3e)
+![logo-tintin-1 (2)](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/assets/88896798/17b925b5-5fdf-4992-a927-2109663e1180)
 
 Now TinTin wants to use some encryption and decryption to ensure that Roberto couldn't understand what they are saying. Help TinTin to acheive his goal! 
 
