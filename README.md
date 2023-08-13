@@ -16,11 +16,12 @@ Now TinTin wants to use some encryption and decryption to ensure that Roberto co
 ### Part 1: Symmetric Cryptography
 TinTin decided to design a symmetirc encryption scheme for his connection with haddock. He asked you to design it for him using these steps:     
 
-1. Implement a simple encryption and decryption program using a symmetric encryption algorithm AES-128 from a cryptography library.
-2. Allow the user to input a message and a secret key for encryption.
-3. Encrypt the message using the provided key and display the encrypted result.
-4. Implement a decryption function that takes the encrypted message and the secret key as input and decrypts the message.
-5. Verify the correctness of the decryption process by comparing the original message with the decrypted message.
+In all steps, use AES-128 encryption method for encryption/decryption. You can use python cryptography libraries for this purpose.    
+1. Write a function to which gives an input message and a secret key for encryption.     
+2. Encrypt this [confidential message](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/Confidential-Message.txt) using a random key and display the encrypted result.     
+3. Implement a decryption function that takes the encrypted message and the secret key as input and decrypts the message.     
+4. Verify the correctness of the decryption process by comparing the original message with the decrypted message.
+
 
 ### Part 2: Asymmetric Cryptography
 After TinTin found how to use symmetric encryption using a key, he faced another problem! How to share a key with haddock without letting Roberto finds it? Therefore, he decides to use an asymmetric crypto system. help him to acheive his goal by writing a program which:   
@@ -36,7 +37,7 @@ Now TinTIn wants to send a message without encryption to haddock, to trick rober
 However, he wants to show haddack that the sender of thsese tricky messages is TinTin, and inform haddock to ignore this type of messages. In order to capture this goal, TinTin wants to sign these messages and send the signs beside each message. Help him to do that by coding:     
 
 1. Write a function to sign a given message in the text file (Confidentail message) using private key which was made in the part 2.     
-   You have to **sign the hash of the message**, not the whole message (why?). Use Sha-256 as your hash function.
+   You have to **sign the hash of the message**, not the whole message (why?). (Use SHA-256 for hashing)
 2. Write a function to verify a message with its signature.
 
 
