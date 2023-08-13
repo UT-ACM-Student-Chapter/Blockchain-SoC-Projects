@@ -33,7 +33,7 @@ After TinTin found how to use symmetric encryption using a key, he faced another
 5. Verify the correctness of the decryption process by comparing the original message with the decrypted message.
 
 ### Part 3: Digital Signature
-Now TinTIn wants to send a message without encryption to haddock, to trick roberto :)    
+Now TinTin wants to send a message without encryption to haddock, to trick roberto :)    
 However, he wants to show haddack that the sender of thsese tricky messages is TinTin, and inform haddock to ignore this type of messages. In order to capture this goal, TinTin wants to sign these messages and send the signs beside each message. Help him to do that by coding:     
 
 1. Write a function to sign a given message in the text file (Confidentail message) using private key which was made in the part 2.     
