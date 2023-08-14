@@ -10,7 +10,7 @@ However, there is a problem over there. **Roberto Rastapopoulos** (Their enemy!)
 
 ![logo-tintin-1 (2)](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/assets/88896798/17b925b5-5fdf-4992-a927-2109663e1180)
 
-Now TinTin wants to use some encryption and decryption to ensure that Roberto couldn't understand what they are saying. Help TinTin to acheive his goal! 
+Now TinTin wants to use some encryption and decryption techniques to ensure that Roberto couldn't understand what they are saying. Help TinTin to acheive his goal! 
 
 
 ### Part 1: Symmetric Cryptography
