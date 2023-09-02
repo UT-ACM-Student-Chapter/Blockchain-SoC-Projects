@@ -40,6 +40,21 @@ However, he wants to show haddack that the sender of thsese tricky messages is T
    You have to **sign the hash of the message**, not the whole message (why?). (Use SHA-256 for hashing)
 2. Write a function to verify a message with its signature.
 
+## Phase 2: Interaction with Bitcoin
+The goal of this assignment is to allow students to interact with the Bitcoin network and gain practical experience in broadcasting transactions. This hands-on experience will help them understand how Bitcoin transactions work, the role of network nodes and miners, and the decentralized nature of the blockchain.
+
+### StoryLine:
+After mastering the fundomentals of cryptography during his adventures, TinTin's insatiable curiosity led him down a new path: the world of cryptocurrencies. Fascinated by the potential of digital currencies like Bitcoin, he delved deeper into the intricate world of blockchain technology.
+
+### Part 1: Generating an address
+In this part of the assignment, our goal is to utilize cryptography libraries to generate Bitcoin addresses. This involves applying cryptographic techniques to create secure and unique identifiers for Bitcoin transactions, ensuring the security and privacy of the digital currency system. Generating Bitcoin addresses is a fundamental step in understanding the principles of blockchain technology and cryptocurrency transactions.
+
+### Part 2: Simple transfer
+The primary objective of this assignment section is to facilitate an understanding of Bitcoin transactions through practical implementation using the <strong>python-bitcoinlib</strong> library. By creating simple Bitcoin transfers, we aim to delve into the intricate workings of transactions, including how they are structured, signed, and how Bitcoin scripts are organized within outputs. This hands-on approach will empower learners to gain insight into the inner workings of the Bitcoin network, offering a deeper comprehension of the blockchain's mechanics and the role of cryptographic signatures in securing transactions. Ultimately, this exercise will equip participants with valuable knowledge about the core principles of Bitcoin's transaction processing, enhancing their cryptocurrency expertise.
+
+### Part 3: Multisig Transfer
+The primary objective of this assignment section is to delve into more advanced Bitcoin transfers, specifically exploring Multisignature (Multisig) transactions, and comparing them with the traditional Pay-to-Public-Key-Hash (P2PKH) scripts. By engaging in the creation and analysis of Multisig transactions, participants will gain a deeper understanding of the intricate nuances of Bitcoin's scripting capabilities. This advanced exercise aims to showcase the enhanced security and flexibility offered by Multisig, where multiple signatures are required to authorize a transaction, as opposed to the simpler P2PKH approach. Through hands-on experience, learners will discern the differences, advantages, and potential use cases of these diverse scripting methods, ultimately broadening their comprehension of Bitcoin's versatile functionality.
+
 
 ## Submission Guidelines:
 - Donwload the [notebook](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/CryptoGraphy-CA.ipynb) file from this link, and complete your code on this notebook. You have to install [jupyter notebook](https://jupyter.org/install) and [python](https://www.python.org/downloads/) on your system.     
