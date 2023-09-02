@@ -2,8 +2,8 @@
 This repository contains the materials of Blockchain &amp; Web3 course at the University of Tehran ACM Chapter Summer School 2023.
 
 Designers & Instructors:    
-[Alireza Arbabi](https://github.com/Alireza-Zwolf)       
-[AmirPasha Motamed](https://github.com/aamirpashaa)     
+* [Alireza Arbabi](https://github.com/Alireza-Zwolf)       
+* [AmirPasha Motamed](https://github.com/aamirpashaa)     
      
 
 ## Phase 1: Introduction to cryptography
