@@ -1,6 +1,11 @@
 # Blockchain-summer-course
 This repository contains the materials of Blockchain &amp; Web3 course at the University of Tehran ACM Chapter Summer School 2023.
 
+Designers & Instructors:    
+[Alireza Arbabi](https://github.com/Alireza-Zwolf)       
+[AmirPasha Motamed](https://github.com/aamirpashaa)     
+     
+
 ## Phase 1: Introduction to cryptography
 The objective of this assignment is to gain practical experience in implementing symmetric and asymmetric cryptography techniques, as well as hash functions, using Python programming.      
 
