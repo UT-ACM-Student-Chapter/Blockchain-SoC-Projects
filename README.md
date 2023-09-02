@@ -9,9 +9,6 @@ Designers & Instructors:
 ## Phase 1: Introduction to cryptography
 The objective of this assignment is to gain practical experience in implementing symmetric and asymmetric cryptography techniques, as well as hash functions, using Python programming.      
 
-Designers & Instructors:
-[Alireza Arbabi](https://github.com/Alireza-Zwolf)
-[AmirPasha Motamed](https://github.com/aamirpashaa)
      
 ### StoryLine:
 We have **TinTin** and **Haddock** on two seperate islands and they want to send messages to each other using morse codes!!   
