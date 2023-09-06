@@ -49,6 +49,9 @@ However, he wants to show haddack that the sender of thsese tricky messages is T
 ## Phase 2: Interaction with Bitcoin
 The goal of this assignment is to allow students to interact with the Bitcoin network and gain practical experience in broadcasting transactions. This hands-on experience will help them understand how Bitcoin transactions work, the role of network nodes and miners, and the decentralized nature of the blockchain.
 
+![image](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects/assets/88896798/26f0e560-1c5a-4d06-aba4-5ce4fe2996e2)
+
+
 ### StoryLine:
 After mastering the fundomentals of cryptography during his adventures, TinTin's insatiable curiosity led him down a new path: the world of cryptocurrencies. Fascinated by the potential of digital currencies like Bitcoin, he delved deeper into the intricate world of blockchain technology.
 
