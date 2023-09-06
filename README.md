@@ -66,7 +66,7 @@ The primary objective of this assignment section is to delve into more advanced 
 
 
 ## Submission Guidelines:
-- Donwload the [Phase1 Notebook](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/CryptoGraphy-CA.ipynb) and [Phase2 Notebook](https://github.com/aamirpashaa/Blockchain-summer-course/blob/main/CA2/Bitcoin-CA.ipynb) files from these link, and complete them. You have to install [jupyter notebook](https://jupyter.org/install) and [python](https://www.python.org/downloads/) on your system.     
+- Donwload the [Phase1 Notebook](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/CryptoGraphy-CA.ipynb) and [Phase2 Notebook](https://github.com/aamirpashaa/Blockchain-summer-course/blob/main/CA2/Bitcoin-CA.ipynb) files from these links, and complete them. You have to install [jupyter notebook](https://jupyter.org/install) and [python](https://www.python.org/downloads/) on your system.     
 - Provide well-commented Python code for each part of the assignment.
 - Include explanations for the design choices you made in terms of algorithms and libraries.
 - Write a report summarizing the concepts of symmetric and asymmetric cryptography, hash functions, and their practical applications.
