@@ -42,7 +42,7 @@ After TinTin found how to use symmetric encryption using a key, he faced another
 Now TinTin wants to send a message without encryption to haddock, to trick roberto :)    
 However, he wants to show haddack that the sender of thsese tricky messages is TinTin, and inform haddock to ignore this type of messages. In order to capture this goal, TinTin wants to sign these messages and send the signs beside each message. Help him to do that by coding:     
 
-1. Write a function to sign a given message in the text file (Confidentail message) using private key which was made in the part 2.     
+1. Write a function to sign the given message in the text file (confidentail message) using private key which was made in the part 2.     
    You have to **sign the hash of the message**, not the whole message (why?). (Use SHA-256 for hashing)
 2. Write a function to verify a message with its signature.
 
