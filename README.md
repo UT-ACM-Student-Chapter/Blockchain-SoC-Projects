@@ -23,7 +23,7 @@ Now TinTin wants to use some encryption and decryption techniques to ensure that
 TinTin decided to design a symmetirc encryption scheme for his connection with haddock. He asked you to design it for him using these steps:     
 
 In all steps, use AES-128 encryption method for encryption/decryption. You can use python cryptography libraries for this purpose.    
-1. Write a function to which gives an input message and a secret key for encryption.     
+1. Write a function which gives an input message and a secret key as an argument, and encrypt the message using the key and return it.     
 2. Encrypt this [confidential message](https://github.com/UT-ACM-Student-Chapter/Blockchain-summer-course/blob/main/CA1/Confidential-Message.txt) using a random key and display the encrypted result.     
 3. Implement a decryption function that takes the encrypted message and the secret key as input and decrypts the message.     
 4. Verify the correctness of the decryption process by comparing the original message with the decrypted message.
@@ -33,7 +33,7 @@ In all steps, use AES-128 encryption method for encryption/decryption. You can u
 After TinTin found how to use symmetric encryption using a key, he faced another problem! How to share a key with haddock without letting Roberto finds it? Therefore, he decides to use an asymmetric crypto system. help him to acheive his goal by writing a program which:   
 
 1. Generate a pair of RSA keys using a cryptography library.
-2. Implement a program to encrypt a message using the public key and decrypt the message using the private key.
+2. Write a function to encrypt a message using the public key, and another function for decrypting a message using the private key.
 3. Allow the user to input a message and encrypt it using the public key.
 4. Implement a decryption function that takes the encrypted message and decrypts it using the private key.
 5. Verify the correctness of the decryption process by comparing the original message with the decrypted message.
